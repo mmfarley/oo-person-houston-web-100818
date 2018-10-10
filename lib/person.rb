@@ -88,4 +88,3 @@ end
 
 person1 = Person.new("Person1")
 
-0
